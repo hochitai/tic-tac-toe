@@ -1,4 +1,19 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# This is a Tic Tac Toe Game
+
+Welcome to the Tic-Tac-Toe game! This is a simple two-player game where you can enter your names and take turns to play Tic-Tac-Toe. The game will display the winner when someone wins.
+
+## Introduce
+
+- Two-player game: Enjoy a classic game of Tic-Tac-Toe with a friend. Compete to see who can outmaneuver the other and claim victory.
+- Winning Announcements: When a player wins the game, our Tic-Tac-Toe application will proudly display the winner. It's not just about winning; it's about enjoying the thrill of victory!
+- Responsive Design: Whether you're playing on a desktop computer, tablet, or mobile device, our game's responsive design ensures that you can enjoy Tic-Tac-Toe anywhere, anytime.
+- Easy Reset: Want to start a new game? No problem! A convenient reset button allows you to quickly clear the board and begin a fresh match.
+
+## Technologies Used
+
+- ReactJS (NextJS)
+- Typescript
+- TailwindCSS
 
 ## Getting Started
 
@@ -16,21 +31,6 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Demo
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+You can check out a live demo of this Tic-Tac-Toe game [here](tic-tac-toe-fawn-one.vercel.app)
