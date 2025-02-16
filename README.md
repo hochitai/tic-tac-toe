@@ -33,4 +33,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Demo
 
-You can check out a live demo of this Tic-Tac-Toe game [here](tic-tac-toe-fawn-one.vercel.app)
+You can check out a live demo of this Tic-Tac-Toe game [here](https://tic-tac-toe-fawn-one.vercel.app/)
